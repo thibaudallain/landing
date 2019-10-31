@@ -1,0 +1,39 @@
+.cards {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;©
+}
+
+.cards h2 {
+  font-family: 'Poppins';
+  font-size: 24px;
+}
+
+.card {
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0px 4px 16px rgba(0,0,0,0.2);
+  border-radius: 3px;
+}
+
+.card h3,
+.card p {
+  font-size: 16px;
+  margin: 0 20px;
+}
+
+.card h3 {
+  font-family: 'Poppins';
+}
+
+.card p {
+  font-family: 'Open Sans';
+  font-weight: 400;
+}
+
+.card img {
+  height: 100px;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 20px;
+}

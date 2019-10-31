@@ -1,0 +1,18 @@
+.list-inline {
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.list-inline li a {
+  text-decoration: none;
+  color: #6AD58B;
+  font-size: 30px;
+  margin: 10px;
+}
+
+.list-inline li a:hover {
+  color: #3AC162;
+}
